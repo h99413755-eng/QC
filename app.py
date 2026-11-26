@@ -27,10 +27,10 @@ SAMPLE_TYPES = [
 ]
 
 LOCATIONS = [
-    "Store A - Rack A1", "Store A - Rack A2", "Store A - Rack A3",
-    "Lab Room B - Rack B1", "Lab Room B - Rack B2",
-    "Quality Room C - Rack C1", "Quality Room C - Rack C2",
-]
+    "QC LAB A - Rack A", "QC LAB A - Rack B", "QC LAB A - Rack C",
+    "QC LAB A -Rack D", "QC LAB - Rack E",
+    "QC LAB B ", "QC LAB C","QC LAB D","QC LAB E","RETENTION ROOM -RACK A","RETENTION ROOM -RACK B","RETENTION ROOM -RACK C","RETENTION ROOM -RACK D",
+"OTHERS,]
 
 # --------------------------- STYLING -------------------------
 
